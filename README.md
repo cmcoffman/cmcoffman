@@ -3,7 +3,7 @@
 I am a data scientist, botanist, and educator with a passion for communication and analysis! :microscope: :telescope:
 
 Quick breakdown:
-* My Name, for the record: Clayton M. Coffman, Ph.D.
+* For the record: Clayton M. Coffman, Ph.D.
 * Pronouns: He/Him
 * Formal education: Plenty, mostly in chemical ecology, botany, and entomology - but actually lots more!
 * Currently taking an [immersive data science course](https://generalassemb.ly/education/data-science-immersive)  at General Assembly.
