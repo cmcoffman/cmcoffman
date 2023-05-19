@@ -9,7 +9,7 @@ Quick breakdown:
 * Currently taking an [immersive data science course](https://generalassemb.ly/education/data-science-immersive)  at General Assembly.
 * Currently learning about how to use machine learning to make sense from non-sense.
 * Ask me about Education, both the process and the system. I love finding ways to communicate new ideas.
-* How to reach me: [Email me!](mailto:clayton.coffman@pm.me?subject=[GitHub]%20Source%20Han%20Sans) or better yet on [LinkedIn](https://www.linkedin.com/in/claytonmcoffman/)
+* How to reach me: [Email me!](mailto:clayton.coffman@pm.me?subject=[GitHub]) or better yet on [LinkedIn](https://www.linkedin.com/in/claytonmcoffman/)
 * Secret facts about me: I play competitive pinball, [seriously!](https://www.ifpapinball.com/player.php?p=83361)
 ---
 Check out my repos to get sense of my broader interests!
